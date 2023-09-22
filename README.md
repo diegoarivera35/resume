@@ -8,6 +8,8 @@ Hi, my name is Diego, I am Colombian, I am pasionate about coding since I gradua
 
 ## Projects 
 
+http://github.com/diegoarivera35/resume/projects.md
+
 | Title         | URL              | Technology    |
 | :---          |     :----:       |          ---: |
 | Resume        | www.google.com   | Markdown      |
